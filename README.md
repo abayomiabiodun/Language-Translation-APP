@@ -1,3 +1,3 @@
 ## Final Project
 
-![language tranlator app](./trans.png)
+![language tranlator app](./trans.JPG)
